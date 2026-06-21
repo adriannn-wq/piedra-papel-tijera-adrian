@@ -5,7 +5,7 @@
 **Tipo de proyecto:** Aplicación de consola en Python  
 
 ## Descripción
-Este proyecto corresponde a un avance inicial de un juego de consola llamado **Piedra, Papel o Tijera**. El programa permite que una persona juegue contra la computadora, valida la opción ingresada, genera una elección aleatoria y muestra el resultado de cada ronda junto con un marcador acumulado.
+Este proyecto corresponde a un avance inicial del programa llamado **Piedra, Papel o Tijera**. El programa permite que una persona juegue contra la computadora, valida la opción ingresada, genera una elección aleatoria y muestra el resultado de cada ronda junto con un marcador acumulado.
 
 ## Funcionalidades implementadas
 - Presentación de las reglas del juego.
