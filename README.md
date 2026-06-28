@@ -1,17 +1,17 @@
-# 🪨📄✂️ Piedra, Papel o Tijera — Edición Avanzada
+#  Piedra, Papel o Tijera — Edición Terminada
 
-**Proyecto Integrador · Lógica de Programación · UIDE 2026**
+**Proyecto Integrador · Lógica de Programación · UIDE **
 
 ---
 
-## 📌 Nombre del proyecto
+##  Nombre del proyecto
 
 **El impacto de las nuevas tecnologías en la sociedad: desarrollo y proyección de soluciones informáticas**  
 *Implementación práctica: Sistema de juego interactivo Piedra, Papel o Tijera — Edición Avanzada*
 
 ---
 
-## 👤 Integrantes
+##  Integrantes
 
 | Nombre | Universidad |
 |--------|-------------|
@@ -23,25 +23,25 @@
 
 ---
 
-## 🎯 Objetivo del sistema
+##  Objetivo del sistema
 
 Desarrollar una aplicación de consola en Python que extienda el juego clásico de Piedra, Papel o Tijera, integrando los conceptos de las cuatro unidades de la asignatura: variables y tipos de datos, estructuras condicionales, estructuras repetitivas, y organización modular del código mediante funciones.
 
 ---
 
-## 🚀 Descripción de funcionalidades
+##  Descripción de funcionalidades
 
 ### Funcionalidades nuevas (extensión del proyecto original)
 
 | Funcionalidad | Descripción |
 |---|---|
-| 🎮 **Modo libre** | Juega rondas ilimitadas hasta decidir salir |
-| 🏆 **Modo torneo** | Juega al mejor de N victorias definidas por el jugador |
-| 😈 **Niveles de dificultad** | Fácil (aleatoria), Normal (semi-estratégica), Difícil (predictiva) |
-| 📊 **Estadísticas avanzadas** | Tasa de victoria, racha actual y mejor racha |
-| 💾 **Historial persistente** | Guarda el resumen de cada sesión en un archivo `.txt` |
-| 👤 **Nombre del jugador** | El sistema saluda y personaliza la experiencia |
-| 🎨 **Interfaz mejorada** | Emojis, separadores visuales y menú estructurado |
+| **Modo libre** | Juega rondas ilimitadas hasta decidir salir |
+| **Modo torneo** | Juega al mejor de N victorias definidas por el jugador |
+| **Niveles de dificultad** | Fácil (aleatoria), Normal (semi-estratégica), Difícil (predictiva) |
+| **Estadísticas avanzadas** | Tasa de victoria, racha actual y mejor racha |
+| **Historial persistente** | Guarda el resumen de cada sesión en un archivo `.txt` |
+| **Nombre del jugador** | El sistema saluda y personaliza la experiencia |
+| **Interfaz mejorada** | Emojis, separadores visuales y menú estructurado |
 
 ### Funcionalidades heredadas del proyecto anterior
 
@@ -53,7 +53,7 @@ Desarrollar una aplicación de consola en Python que extienda el juego clásico 
 
 ---
 
-## 🗂️ Estructura del repositorio
+##  Estructura del repositorio
 
 ```
 piedra-papel-tijera-adrian/
@@ -74,7 +74,7 @@ piedra-papel-tijera-adrian/
 
 ---
 
-## 📐 Relación con las unidades de la asignatura
+##  Relación con las unidades de la asignatura
 
 | Unidad | Tema | Aplicación en el proyecto |
 |--------|------|--------------------------|
@@ -85,7 +85,7 @@ piedra-papel-tijera-adrian/
 
 ---
 
-## ⚙️ Tecnologías y entorno
+## Tecnologías y entorno
 
 - **Lenguaje:** Python 3.x
 - **IDE recomendado:** Visual Studio Code
@@ -94,7 +94,7 @@ piedra-papel-tijera-adrian/
 
 ---
 
-## ▶️ Ejecución
+##  Ejecución
 
 ```bash
 # Clonar el repositorio
