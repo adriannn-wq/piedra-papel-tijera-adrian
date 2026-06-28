@@ -110,6 +110,6 @@ python src/main.py
 
 ---
 
-## 🌍 Impacto tecnológico
+## Impacto tecnológico
 
 Este proyecto refleja cómo las tecnologías de software permiten transformar un juego analógico en una experiencia digital interactiva con lógica de inteligencia artificial básica (niveles de dificultad), persistencia de datos y retroalimentación inmediata al usuario. Demuestra que incluso aplicaciones sencillas integran principios fundamentales de programación presentes en sistemas mucho más complejos.
