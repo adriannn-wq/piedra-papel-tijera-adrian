@@ -351,7 +351,7 @@ def menu_principal():
             separador()
             break
         else:
-            print("  ⚠️  Opción no válida. Intenta de nuevo.")
+            print("  ⚠️   Opción no válida. Intenta de nuevo.")
 
 
 # ─────────────────────────────────────────────
